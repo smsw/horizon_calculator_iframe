@@ -1,6 +1,6 @@
 # horizon_calculator_iframe
 
-#### Example site
+#### Working version
 [http://smsw.github.io/horizon_calculator_iframe/](http://smsw.github.io/horizon_calculator_iframe/)
 
 #### iframe code
